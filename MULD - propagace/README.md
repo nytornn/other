@@ -1,1 +1,7 @@
-
+![ScreenShot](https://raw.githubusercontent.com/nytornn/other/main/MULD%20-%20propagace/plakat.png)
+![ScreenShot](https://raw.githubusercontent.com/nytornn/other/main/MULD%20-%20propagace/plakat1.png)
+![ScreenShot](https://raw.githubusercontent.com/nytornn/other/main/MULD%20-%20propagace/plakat3.png)
+![ScreenShot](https://raw.githubusercontent.com/nytornn/other/main/MULD%20-%20propagace/plakat4.png)
+![ScreenShot](https://raw.githubusercontent.com/nytornn/other/main/MULD%20-%20propagace/baner.png)
+![ScreenShot](https://raw.githubusercontent.com/nytornn/other/main/MULD%20-%20propagace/hrnek.png)
+![ScreenShot](https://raw.githubusercontent.com/nytornn/other/main/MULD%20-%20propagace/mikina.png)
