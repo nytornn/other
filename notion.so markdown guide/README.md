@@ -14,29 +14,29 @@ After successful login, you will see the phpMyAdmin interface. The main sections
 4. **Creating a database**: 
 To create a new database, click on the "Databases" tab in the navigation pane. Enter a name for your database in the "Create database" field, choose a collation (character set), and click on the "Create" button.
     
-    ![Untitled](How%20to%20start%20with%20phpMyAdmin%20b9f3dd74501c4742be88992d0f4e4d6a/Untitled%201.png)
+    ![](https://raw.githubusercontent.com/nytornn/other/main/notion.so%20markdown%20guide/database.png)
     
 5. **Managing tables**: 
 Once you have a database, you can create tables to store your data. From the database list, select the database you want to work with. Click on the "Structure" tab to manage tables. Here, you can create new tables, define columns, set primary keys, and more.
     
-    ![Untitled](How%20to%20start%20with%20phpMyAdmin%20b9f3dd74501c4742be88992d0f4e4d6a/Untitled%202.png)
+    ![](https://raw.githubusercontent.com/nytornn/other/main/notion.so%20markdown%20guide/structure.png)
     
 6. **Executing SQL queries**: 
 phpMyAdmin allows you to execute SQL queries directly. Click on the "SQL" tab to access the SQL query interface. Enter your SQL query in the text area and click on the "Go" button to execute the query.
     
-    ![Untitled](How%20to%20start%20with%20phpMyAdmin%20b9f3dd74501c4742be88992d0f4e4d6a/Untitled%203.png)
+    ![](https://raw.githubusercontent.com/nytornn/other/main/notion.so%20markdown%20guide/SQL%20query.png)
     
 7. **Importing and exporting data**: 
 phpMyAdmin provides options to import and export database data. To import data, click on the "Import" tab, choose the file to import, and follow the instructions. To export data, click on the "Export" tab, select the tables you want to export, choose the export format, and click on the "Go" button.
     
-    ![Untitled](How%20to%20start%20with%20phpMyAdmin%20b9f3dd74501c4742be88992d0f4e4d6a/Untitled%204.png)
+    ![](https://raw.githubusercontent.com/nytornn/other/main/notion.so%20markdown%20guide/import.png)
     
-    ![Untitled](How%20to%20start%20with%20phpMyAdmin%20b9f3dd74501c4742be88992d0f4e4d6a/Untitled%205.png)
+    ![](https://raw.githubusercontent.com/nytornn/other/main/notion.so%20markdown%20guide/export.png)
     
 8. **User management**: 
 With phpMyAdmin, you can manage MySQL users and their privileges. Click on the "Users" tab to view and manage users. Here, you can add new users, change passwords, grant privileges, and more.
     
-    ![Untitled](How%20to%20start%20with%20phpMyAdmin%20b9f3dd74501c4742be88992d0f4e4d6a/Untitled%206.png)
+    ![](https://raw.githubusercontent.com/nytornn/other/main/notion.so%20markdown%20guide/user%20accounts.png)
     
 9. **Configuring phpMyAdmin**: 
 phpMyAdmin offers various configuration options to customize its behavior. The configuration file is usually located in the installation directory. You can modify settings like authentication method, appearance, language, and more.
