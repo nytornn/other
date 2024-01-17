@@ -9,7 +9,7 @@ Enter your MySQL username and password in the login form and click on the "Go" b
 3. **Navigating the interface**: 
 After successful login, you will see the phpMyAdmin interface. The main sections of the interface include the database list, the navigation pane, and the main work area where you'll perform various tasks.
     
-    ![Untitled](How%20to%20start%20with%20phpMyAdmin%20b9f3dd74501c4742be88992d0f4e4d6a/Untitled.png)
+    ![](https://raw.githubusercontent.com/nytornn/other/main/notion.so%20markdown%20guide/interface.png)
     
 4. **Creating a database**: 
 To create a new database, click on the "Databases" tab in the navigation pane. Enter a name for your database in the "Create database" field, choose a collation (character set), and click on the "Create" button.
