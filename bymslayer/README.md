@@ -23,7 +23,7 @@ upravit tilesety a grafiku celkově ať k sobě sedí
 
 - [@Petr Nidecký](https://github.com/KanzanElBirbo)
 
-- [@Patrik Slovák](https://www.github.com/octokatherine)
+- Patrik Slovák
 
 - _[@Ladislav Liška](https://github.com/ladaliska)_ (výpomoc)
 
