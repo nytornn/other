@@ -10,13 +10,13 @@ Bymslayer je 2D skákačka, ve které hrajete za učitele Petra Kozáka, který 
 
 
 ## Work in Progress
-Bym - další nepřítel
+- Bym - další nepřítel
+- další levely
+- opravit slider zvuku v nastavení
+- upravit tilesety a grafiku celkově ať k sobě sedí
+- Životy, poškození a úmrtí
+- Poškození a zabití nepřátel
 
-další levely
-
-opravit slider zvuku v nastavení
-
-upravit tilesety a grafiku celkově ať k sobě sedí
 
 ## Tvůrci hry
 - [@Daniel Mátl](https://github.com/nytornn/)
@@ -37,6 +37,9 @@ upravit tilesety a grafiku celkově ať k sobě sedí
 - [Itch.io](https://itch.io/) - Tilesety
 
 ## Screenshoty vývoje a samotné hry
+### [Gameplay video](https://www.youtube.com/watch?v=hTq0N7d0kIQ)
+
+
 ![dev](https://raw.githubusercontent.com/nytornn/other/main/bymslayer/screenshots/development.png)
 ![dev1](https://raw.githubusercontent.com/nytornn/other/main/bymslayer/screenshots/development1.png)
 ![dev2](https://raw.githubusercontent.com/nytornn/other/main/bymslayer/screenshots/development2.png)
@@ -47,6 +50,7 @@ upravit tilesety a grafiku celkově ať k sobě sedí
 ![gamepause](https://raw.githubusercontent.com/nytornn/other/main/bymslayer/screenshots/pausemenu.png)
 ![trophy](https://github.com/nytornn/other/blob/main/bymslayer/screenshots/trophy.png)
 ![levelcomplete](https://raw.githubusercontent.com/nytornn/other/main/bymslayer/screenshots/levelcomplete.png)
+
 
 ## Licence
 
