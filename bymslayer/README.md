@@ -23,7 +23,7 @@ Bymslayer je 2D skákačka, ve které hrajete za učitele Petra Kozáka, který 
 
 - [@Petr Nidecký](https://github.com/KanzanElBirbo)
 
-- Patrik Slovák
+- [@Patrik Slovák](https://github.com/19049-Spy)
 
 - _[@Ladislav Liška](https://github.com/ladaliska)_ (výpomoc)
 
